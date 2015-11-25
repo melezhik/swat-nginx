@@ -1,1 +1,2 @@
-require 'swat'
+require 'swat';
+
