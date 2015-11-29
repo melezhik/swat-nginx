@@ -1,5 +1,5 @@
 200 OK
 regexp: Server: nginx\/(\S+)
-validator: [capture()->[0],'valid nginx version: '.(capture()->(0))]
+validator: my $v=capture()->[0]; [ $v ,'valid nginx version: '.$v];
 
 
