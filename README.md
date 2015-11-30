@@ -2,8 +2,10 @@
 
 swat tests for nginx server
 
-# USAGE
+# INSTALL
 
-`echo swat-nginx https://github.com/melezhik/swat-nginx.git >> ~/sparrow/sparrow.list`
+    echo swat-nginx https://github.com/melezhik/swat-nginx.git >> ~/sparrow/sparrow.list
+    sparrow plg install swat-nginx
+
 
   
