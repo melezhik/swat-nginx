@@ -1,5 +1,7 @@
 {
     "version": "0.1.0",
-    "name" : "nginx-smoke-test"
+    "name" : "swat-nginx",
+    "description": "swat smoke tests for nginx",
+    "url" : "https://github.com/melezhik/swat-nginx"
 }
 
